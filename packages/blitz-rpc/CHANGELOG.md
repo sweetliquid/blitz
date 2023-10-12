@@ -1,5 +1,13 @@
 # @blitzjs/rpc
 
+## 2.0.0-beta.35
+
+### Patch Changes
+
+- Updated dependencies [cee2dec17]
+- Updated dependencies [aec1bb076]
+  - blitz@2.0.0-beta.35
+
 ## 2.0.0-beta.34
 
 ### Patch Changes

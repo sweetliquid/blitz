@@ -1,5 +1,14 @@
 # @blitzjs/auth
 
+## 2.0.0-beta.35
+
+### Patch Changes
+
+- cee2dec17: Fix bug that did not allow `Page.authenicate = {role: "" }` to correctly work
+- Updated dependencies [cee2dec17]
+- Updated dependencies [aec1bb076]
+  - blitz@2.0.0-beta.35
+
 ## 2.0.0-beta.34
 
 ### Patch Changes
